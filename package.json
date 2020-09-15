@@ -2,7 +2,7 @@
   "name": "react-spring-boot",
   "version": "0.1.0",
   "description": "React+SpringBoot",
-  "author": "MIURA Kazuto",
+  "author": "Saito H",
   "license": "Apache-2.0",
   "dependencies": {
     "react": "^16.13.1",
